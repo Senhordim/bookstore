@@ -1,9 +1,3 @@
-# README
+# bookstore
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-
-* ...
+Projeto de exemplo do livro conheçendo Rails
